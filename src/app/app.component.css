@@ -1,0 +1,8 @@
+.app-header {
+    position: fixed;
+    width: -webkit-fill-available;
+}
+
+.container {
+    padding-top: 80px;
+}
